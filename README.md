@@ -28,7 +28,4 @@ This algorithm at first tries to find similar users based on their activities an
    2.	Data should be put in data folder
 
 ## Software Require
-   1.	Jupyter notebook
-   2.	Python
-
-
+    > Jupyter notebook
