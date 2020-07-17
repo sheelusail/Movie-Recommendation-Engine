@@ -5,6 +5,8 @@ The main goal of this machine learning project is to build a recommendation engi
 
 It turns out that there are (mostly) three ways to build a recommendation engine:
 
-Popularity based recommendation engine
-Content based recommendation engine
-Collaborative filtering based recommendation engine
+   1. Popularity based recommendation engine
+   2. Content based recommendation engine
+   3. Collaborative filtering based recommendation engine
+   
+   
