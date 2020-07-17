@@ -21,7 +21,7 @@ This algorithm at first tries to find similar users based on their activities an
 ## Files contained in the project
   • movie_recommendation_engine.ipynb : jupyter notebook code file
   •  movie_recommender.ipynb : google colab blog
-  •  movie_dataset.csv : movie recommendation dataset.
+  •  movie_dataset.csv : movie recommendation dataset
 
 ## Repository Structure
    1.	movie_recommendation_engine.ipynb : The Jupyter notebook containing code for the recommendation engines
